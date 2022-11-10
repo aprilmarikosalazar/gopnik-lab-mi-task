@@ -1,3 +1,3 @@
-# gopnik-lab-frog-task
+# gopnik-lab-MI-task
 
-Spatial context experiment for kids @ Gopnik lab
+Mirror Invariance experiment created for Gopnik Lab
